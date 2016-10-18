@@ -1,2 +1,2 @@
 - HW: 10/Objects: Create code modules that combine variables and functions.
-- HW: Simulate a race using different looking shapes that are all instances of the same object.
+- HW: Simulate a race using different looking shapes that are all "instances" of the same "object."
